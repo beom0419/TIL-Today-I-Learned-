@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Appleatingalaxy
-- 👀 I’m interested in ... python
+- 👀 I’m interested in ... python.
 - 🌱 I’m currently learning ... pyhton 
 - 💞️ I’m looking to collaborate on ... python
 - 📫 How to reach me ... python
