@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 2022-12-09: 네트워크 기초 
 2022-12-24: 코딩테스트 기초 학습
 2022-12-26: 이력서, 블로그, 깃허브 기초 강의 수강
+2022-12-27: 자바 기초 
