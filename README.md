@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 2022-12-28: 생활코딩 WEB1 HTML, 독서(커리어 스킬)
 2022-12-29: 생활코딩 WEB2 CSS, 
 2022-12-30: 자바 기초
+2022-12-31: 자바 기초
