@@ -23,3 +23,4 @@ You can click the Preview link to take a look at your changes.
 2023-01-02: 자바 기초
 2023-01-03: 네트워크 기초
 2023-01-04: 네트워크 기초
+2023-01-05: 네트워크 기초
