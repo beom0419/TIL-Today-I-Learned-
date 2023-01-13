@@ -32,3 +32,4 @@ You can click the Preview link to take a look at your changes.
 2023-01-11: 코딩테스트 학습
 2023-01-12: 코딩테스트 학습
 2023-01-13: 코딩테스트 학습
+2023-01-14: 코딩테스트 학습, 자바 기초
