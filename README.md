@@ -36,3 +36,4 @@ You can click the Preview link to take a look at your changes.
 2023-01-15: 토이 프로젝트 주제 선정
 2022-01-17: 자기소개서 작성
 2022-01-18: 자바 기초
+2022-01-19: 코딩 테스트 학습
