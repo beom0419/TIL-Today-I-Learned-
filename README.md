@@ -37,3 +37,4 @@ You can click the Preview link to take a look at your changes.
 2022-01-17: 자기소개서 작성
 2022-01-18: 자바 기초
 2022-01-19: 코딩 테스트 학습
+2022-01-19: 코딩 테스트, 자바 기초 
