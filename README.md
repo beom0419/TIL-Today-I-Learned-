@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Appleatingalaxy
+- 👋 Hi, I’m @Beginner
 - 👀 I’m interested in ... Java.
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Java
@@ -45,4 +45,5 @@ You can click the Preview link to take a look at your changes.
 2023-01-25: DB 기초, 운영체제 기초, 자바 기초
 2023-01-26: 자바 기초 
 2023-01-27: 자바 기초
-2023-01-28: 자바 기초, 
+2023-01-28: 자바 기초
+2023-01-29: 자바 기초 마무리
