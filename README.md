@@ -49,3 +49,4 @@ You can click the Preview link to take a look at your changes.
 2023-01-29: 자바 기초 마무리
 2023-01-30: 개인 프로젝트, DB 기초
 2023-02-01: 자료구조, 코딩테스트 학습.
+2023-02-02: 자료구조, 코딩테스트 학습
