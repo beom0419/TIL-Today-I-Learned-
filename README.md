@@ -55,3 +55,4 @@ You can click the Preview link to take a look at your changes.
 2023-02-05: 알고리즘, 자료구조, 코딩테스트 학습
 2023-02-07: 부트캠프 자기소개서 작성
 2023-02-08: 부트캠프 자기소개서 작성
+2032-02-09: LG CNS 자기소개서 작성
