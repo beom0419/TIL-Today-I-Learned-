@@ -61,3 +61,4 @@ You can click the Preview link to take a look at your changes.
 2023-02-12: LG CNS 자기소개서 작성, 코딩테스트 학습
 2023-02-13: 코딩테스트 학습
 2023-02-14: 코딩테스트 학습
+2023-02-15: 코딩테스트 학습
