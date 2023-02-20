@@ -66,3 +66,4 @@ You can click the Preview link to take a look at your changes.
 2023-02-17: 코딩테스트 학습, 웹 기초 
 2023-02-18: 기술면접 예상질문 학습
 2023-02-19: 스프링 기초, 웹 기초 
+2023-02-20: 생활코딩 DB1, DB2  
