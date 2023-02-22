@@ -67,4 +67,5 @@ You can click the Preview link to take a look at your changes.
 2023-02-18: 기술면접 예상질문 학습
 2023-02-19: 스프링 기초, 웹 기초 
 2023-02-20: 생활코딩 DB1, DB2  
-2023-02-21: LG CNS 코딩테스트 
+2023-02-21: LG CNS 코딩테스트 대비
+2023-02-22: LG CNS 코딩테스트 대
