@@ -73,5 +73,6 @@ You can click the Preview link to take a look at your changes.
 2023-02-24: LG CNS 코딩테스트 대비
 2023-02-25: LG CNS 코딩테스트 대비
 2023-02-26: LG CNS 코딩테스트 응시, 생활코딩 DB2, CSS 수강
-2023-02-27: LG CNS 1차면접 준비(기술면접 질문 )
-.
+2023-02-27: LG CNS 1차면접 준비(기술면접 질문)
+2023-02-28: LG CNS 1차면접 준비(웹 기초: CSS)
+2023-03-01: LG CNS 1차면접 준비(웹 기초: JavaScript)
