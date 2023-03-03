@@ -76,3 +76,6 @@ You can click the Preview link to take a look at your changes.
 2023-02-27: LG CNS 1차면접 준비(기술면접 질문)
 2023-02-28: LG CNS 1차면접 준비(웹 기초: CSS)
 2023-03-01: LG CNS 1차면접 준비(웹 기초: JavaScript)
+2023-03-02: LG CNS 1차면접 준비
+2023-03-03: OPIc 시험 준비
+2023-03-04: OPIc 시험 준비
