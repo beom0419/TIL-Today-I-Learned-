@@ -79,4 +79,5 @@ You can click the Preview link to take a look at your changes.
 2023-03-02: LG CNS 1차면접 준비
 2023-03-03: OPIc 시험 준비
 2023-03-04: OPIc 시험 준비
-2023-03-05: OPIc 응시, 삼성전자, SK하이닉스 자기소개서 작성.fdd혀
+2023-03-05: OPIc 응시, 삼성전자, SK하이닉스 자기소개서 작성.f
+ㅇㅇㅇ
