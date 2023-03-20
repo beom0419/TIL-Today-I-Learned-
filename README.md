@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @Beginner
-- 👀 I’m interested in ... Java.
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Java
-- 📫 How to reach me ... Java
-
-<!---
-Appleatingalaxy/Appleatingalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 2022-11-19: 정보처리기사 필기 개념 학습
 2022-11-20: 컴퓨터공학 6대과목 기초 
 2022-12-04: 컴퓨터구조, 운영체제, 
@@ -88,8 +78,9 @@ You can click the Preview link to take a look at your changes.
 2023-03-13: 삼성전자, 현대자동차 자기소개서 작성
 2023-03-14: 삼성전자, 현대자동차 자기소개서 작성
 2023-03-15: 삼성전자 자기소개서 작성, 스프링 학습
-2023-03-16: 스프링 학습
-2023-03-17: 스프링 학습
-2023-03-18: 스프링 학습
-2023-03-19: 스프링 학습
-2023-03-20: 자바,  학습
+2023-03-16: 스프링 학습(중급)
+2023-03-17: 스프링 학습(JPA)
+2023-03-18: 스프링 학습(JPA)
+2023-03-19: 스프링 학습(HTML)
+2023-03-20: 자바 기초, 스프링 MVC 학습
+2023-03-21: 자바 기초, 스프링 MVC 학습
