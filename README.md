@@ -2,7 +2,7 @@
 
 ---
 
-학습 List: 정보처리기사(SW기초), CS 6대과목(자료구조, 알고리즘, 데이터베이스+SQL, 운영체제, 네트워크, 컴퓨터구조), Java-Spring, HTML, CSS, JS, React, Vue, jQuery, 
+학습 List: 정보처리기사(SW기초), CS 6대과목(자료구조, 알고리즘, 데이터베이스+SQL, 운영체제, 네트워크, 컴퓨터구조), Java-Spring, HTML, CSS, JS, React, Vue, jQuery-ajax, git-github, linux 
 
 2022-11-19: 정보처리기사 필기 개념 학습<br/>
 2022-11-20: 컴퓨터공학 6대과목 기초<br/>
