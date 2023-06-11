@@ -174,3 +174,4 @@
 2023-06-08: 기술면접 학습(HTML/CSS) <br/>
 2023-06-09: 기술면접 학습(JavaScript, 자료구조-알고리즘) <br/>
 2023-06-10: 기술면접 학습(자료구조-알고리즘, React, DATABASE-MySQL) <br/>
+2023-06-11: 기술면접 학습(DATABASE-MySQL, RDBMS, 네트워크) <br/>
