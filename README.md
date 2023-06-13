@@ -6,7 +6,7 @@
 # SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL, 운영체제, 네트워크, 컴퓨터구조)<br/>
 # 백엔드: Java-Spring<br/>
 # 웹+프론트엔드: HTML, CSS, JS, React, Vue, jQuery-ajax<br/>
-# 서버 및 버전 관리: git-github, linux, Mongo DB, AWS, Tomcat, Docker-Kubernetes<br/>
+# 서버 및 버전 관리: git-github, linux(ubuntu), Mongo DB, AWS, Tomcat, Docker-Kubernetes<br/>
 
 2022-11-19: 정보처리기사 필기 개념 학습<br/>
 2022-11-20: 컴퓨터공학 6대과목 기초<br/>
@@ -176,3 +176,4 @@
 2023-06-10: 기술면접 학습(자료구조-알고리즘, React, DATABASE-MySQL) <br/>
 2023-06-11: 기술면접 학습(DATABASE-MySQL, RDBMS, 네트워크) <br/>
 2023-06-12: 기술면접 학습(네트워크, Tomcat, Kubernetes) <br/>
+2023-06-12: 기술면접 학습(Linux(ubuntu), Kubernetes) <br/
