@@ -178,4 +178,5 @@
 2023-06-12: 기술면접 학습(네트워크, Tomcat, Kubernetes) <br/>
 2023-06-13: 기술면접 학습(Linux(ubuntu), Kubernetes) <br/
 2023-06-14: 기술면접 학습(Linux(ubuntu)) <br/
-2023-06-15: 기술면접 학습(Linux(ubuntu), Vue.js) <br/
+2023-06-15: 기술면접 학습(Linux(ubuntu), Vue.js, 자바 기초) <br/
+2023-06-16: 기술면접 학습(자바 기초) <br/
