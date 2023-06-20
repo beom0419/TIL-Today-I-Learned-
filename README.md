@@ -3,10 +3,37 @@
 ---
 
 # 학습 List<br/>
-# SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL, 운영체제, 네트워크, 컴퓨터구조)<br/>
+# SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL, 운영체제+컴퓨터구조, 네트워크)<br/>
 # 백엔드: Java-Spring<br/>
 # 웹+프론트엔드: HTML, CSS, JS, React, Vue, jQuery-ajax<br/>
 # 서버 및 버전 관리: git-github, linux(ubuntu), Mongo DB, AWS, Tomcat, Docker-Kubernetes<br/>
+
+SW기초<br/>
+정보처리기사: Youtube 정보처리기사 인강<br/>
+
+CS 6대과목<br/>
+자료구조: <br/>
+알고리즘: <br/>
+데이터베이스+MySQL: 이것이 MySQL이다 강의<br/>
+운영체제+컴퓨터구조: <br/>
+네트워크: <br/>
+
+백엔드<br/>
+Java: 자바의 정석<br/>
+Spring: 인프런 김영한 강의<br/>
+
+웹+프론트엔드<br/>
+HTML+CSS+JS+]+React: 생활코딩<br/>
+Vue: <br/>
+jQuery-ajax: <br/>
+
+서버 및 버전 관리<br/>
+git-github: <br/>
+linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
+Mongo DB: <br/>
+AWS: <br/>
+Tomcat: <br/>
+Docker-Kubernetes: <br/>
 
 2022-11-19: 정보처리기사 필기 개념 학습<br/>
 2022-11-20: 컴퓨터공학 6대과목 기초<br/>
