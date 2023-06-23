@@ -14,7 +14,7 @@ SW기초<br/>
 CS 6대과목<br/>
 자료구조: <br/>
 알고리즘: <br/>
-데이터베이스+MySQL: 이것이 MySQL이다 강의<br/>
+데이터베이스+MySQL: 이것이 MySQL이다 강의 -> Real MySQL N회독<br/>
 운영체제+컴퓨터구조: <br/>
 네트워크: <br/>
 
