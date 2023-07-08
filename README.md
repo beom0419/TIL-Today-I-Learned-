@@ -228,3 +228,4 @@ Docker-Kubernetes: <br/>
 2023-07-05: 기술면접 학습(git, MySQL, HTML) <br/>
 2023-07-06: 기술면접 학습(HTML, Linux) <br/>
 2023-07-07: 기술면접 학습(Linux) <br/>
+2023-07-08: 기술면접 학습(Linux) <br/>
