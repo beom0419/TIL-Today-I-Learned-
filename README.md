@@ -263,3 +263,4 @@ Docker-Kubernetes: 따배도, 따배쿠<br/>
 2023-08-14: 기술면접 학습(CSS, JS) <br/>
 2023-08-15: 기술면접 학습(JS, React) <- JS 중반부 이후 복습 필요 <br/>
 2023-08-16: 기술면접 학습(DB, MySQL, RDBMS, DNS, Home Server) <br/>
+2023-08-17: 기술면접 학습(DB) <br/>
