@@ -265,3 +265,4 @@ Docker-Kubernetes: 따배도, 따배쿠<br/>
 2023-08-16: 기술면접 학습(DB, MySQL, RDBMS, DNS, Home Server) <br/>
 2023-08-17: 기술면접 학습(DB) <br/>
 2023-08-18: 기술면접 학습(DB) <br/>
+2023-08-19: 기술면접 학습(DB) <br/>
