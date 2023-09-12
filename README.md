@@ -5,7 +5,7 @@
 # 학습 List<br/>
 # SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL+Redis+MongoDB, 운영체제+컴퓨터구조, 네트워크), linux(ubuntu)<br/>
 # 백엔드: Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>
-# 웹+프론트엔드: HTML, CSS, JS, React(Vue.js: sub), jQuery-ajax<br/>
+# 웹+프론트엔드: HTML, CSS, JavaScript, React(+Vue.js), jQuery-ajax<br/>
 # 서버 및 버전 관리: git-github, AWS, Tomcat, Docker-Kubernetes<br/>
 
 SW기초<br/>
@@ -22,17 +22,16 @@ Redis(캐싱용 in-memory DB), MongoDB(NoSQL)는 추후 학습 예정<br/>
 
 백엔드<br/>
 Java: 자바의 정석<br/>
-Spring: 인프런 김영한 강의<br/>
+Spring Framework ~ QueryDSL: 인프런 김영한 로드맵<br/>
 
 웹+프론트엔드<br/>
-HTML+CSS+JS+]+React: 생활코딩<br/>
-Vue: 학습 후순위<br/>
+HTML+CSS+JavaScript+React: 생활코딩<br/>
+Vue는 추후 학습 예정<br/>
 jQuery-ajax: <br/>
 
 서버 및 버전 관리<br/>
 git-github: 생활코딩<br/>
 linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
-Mongo DB: <br/>
 AWS: <br/>
 Tomcat: <br/>
 Docker-Kubernetes: 따배도, 따배쿠<br/>
