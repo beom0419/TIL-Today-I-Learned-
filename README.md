@@ -3,10 +3,10 @@
 ---
 
 # 학습 List<br/>
-# SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL, 운영체제+컴퓨터구조, 네트워크)<br/>
-# 백엔드: Java + Spring Framework<br/>
+# SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL+Redis+MongoDB, 운영체제+컴퓨터구조, 네트워크), linux(ubuntu)<br/>
+# 백엔드: Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>
 # 웹+프론트엔드: HTML, CSS, JS, React(Vue.js: sub), jQuery-ajax<br/>
-# 서버 및 버전 관리: git-github, linux(ubuntu), Mongo DB, AWS, Tomcat, Docker-Kubernetes<br/>
+# 서버 및 버전 관리: git-github, AWS, Tomcat, Docker-Kubernetes<br/>
 
 SW기초<br/>
 정보처리기사: Youtube 정보처리기사 인강<br/>
@@ -15,6 +15,7 @@ CS 6대과목<br/>
 자료구조: 누구나 자료구조와 알고리즘<br/>
 알고리즘+PS: 이것이 코딩테스트다 <br/>
 데이터베이스+MySQL+RDBMS: 이것이 MySQL이다 강의 + 생활코딩 RDBMS+MySQL -> 데이터베이스 번역본(돛단배) + Real MySQL N회독<br/>
+Redis(캐싱용 in-memory DB), MongoDB(NoSQL)는 추후 학습 예정<br/>
 컴퓨터구조: 혼자서 공부하는 컴퓨터구조+운영체제 -> 컴퓨터구조 및 설계 번역본<br/>
 운영체제: 혼자서 공부하는 컴퓨터구조+운영체제 + 반효경 운영체제 강의 -> 운영체제(공룡책) 번역본<br/>
 네트워크: 모두의 네트워크 + 생활코딩(Home Server, DNS)-> 컴퓨터 네트워킹 하향식 접근 번역본<br/>
