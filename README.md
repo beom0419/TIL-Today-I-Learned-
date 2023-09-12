@@ -27,14 +27,14 @@ Spring Framework ~ QueryDSL: 인프런 김영한 로드맵<br/>
 웹+프론트엔드<br/>
 HTML+CSS+JavaScript+React: 생활코딩<br/>
 Vue는 추후 학습 예정<br/>
-jQuery-ajax: <br/>
+jQuery-ajax: 추후 학습 예정<br/>
 
 서버 및 버전 관리<br/>
 git-github: 생활코딩<br/>
 linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
-AWS: <br/>
-Tomcat: <br/>
-Docker-Kubernetes: 따배도, 따배쿠<br/>
+AWS: 생활코딩<br/>
+Tomcat: 추후 학습 예정<br/>
+Docker-Kubernetes: 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 or 유튜브 따배도-따배쿠<br/>
 
 2022-11-19: 정보처리기사 필기 개념 학습<br/>
 2022-11-20: 컴퓨터공학 6대과목 기초<br/>
