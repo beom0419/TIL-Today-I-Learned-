@@ -390,3 +390,4 @@ Tomcat: 추후 학습 예정<br/>
 2023-12-20: 기술면접 학습(운영체제, Spring) <br/>
 2023-12-21: 기술면접 학습(운영체제), SSAFY 입과 시험 준비(Java, Python) <br/>
 2023-12-22: SSAFY 입과 시험 준비(Java, Python) <br/>
+2023-12-23: SSAFY 입과 시험 준비(Java, Python) <br/>
