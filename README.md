@@ -394,3 +394,4 @@ Tomcat: 추후 학습 예정<br/>
 2023-12-24: SSAFY 입과 시험 준비(Java, Python) <br/>
 2023-12-25: SSAFY 입과 시험 준비(Java, Python) <br/>
 2023-12-26: SSAFY 입과 시험 준비(Java, Python) <br/>
+2023-12-27: SSAFY 입과 시험 준비(Java, Python) <br/>
