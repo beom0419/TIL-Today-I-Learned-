@@ -402,3 +402,4 @@ Tomcat: 추후 학습 예정<br/>
 2024-01-01: SSAFY 입과 시험 준비(Java, Python) <br/>
 2024-01-02: SSAFY OT, SSAFY 입과 시험 준비(Java, Python) <br/>
 2024-01-03: SSAFY 입과 시험 <br/>
+2024-01-04: SSAFY 수업: 아이디어 톤, 기술면접 학습(운영체제)<br/>
