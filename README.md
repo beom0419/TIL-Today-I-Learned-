@@ -20,10 +20,10 @@ CS 6대과목<br/>
 - Spring Framework ~ QueryDSL: 인프런 김영한 로드맵<br/>
 
 ### 3. 웹+프론트엔드
-`HTML, CSS, JavaScript, React(+Vue.js), jQuery-ajax<br/>`
+`HTML, CSS, JavaScript, Vue.js, React.js, jQuery-ajax<br/>`
 
-- HTML+CSS+JavaScript+React: 생활코딩<br/>
-- Vue는 추후 학습 예정<br/>
+- HTML, CSS, JavaScript, Vue.js: SSAFY 정규 과정<br/>
+- React.js: 추후 학습 예정<br/>
 - jQuery-ajax: 추후 학습 예정<br/>
 
 ### 4. 버전 관리 및 서버 배포
@@ -31,7 +31,8 @@ CS 6대과목<br/>
 
 - git-github: 생활코딩<br/>
 - AWS: 생활코딩<br/>
-- Docker-Kubernetes-Jenkins-Grafana-Prometheus: 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 or 유튜브 따배도-따배쿠<br/>
+- Docker, Kubernetes: 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 or 유튜브 따배도-따배쿠<br/>
+- Jenkins, Grafana, Prometheus: 인프런 김영한 강의
 - Nginx: 생활코딩<br/>
 - Tomcat: 추후 학습 예정<br/>
 
