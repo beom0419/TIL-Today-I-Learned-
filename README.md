@@ -1,6 +1,6 @@
 # 웹 백엔드 학습 List<br/>
 ### 1. SW기초
-### 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL+Redis+MongoDB, 운영체제+컴퓨터구조, 네트워크), linux(ubuntu)<br/>
+### 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스, 운영체제+컴퓨터구조, 네트워크), Linux(ubuntu)<br/>
 
 - 정보처리기사: Youtube 정보처리기사 인강<br/>
 CS 6대과목<br/>
@@ -11,7 +11,7 @@ CS 6대과목<br/>
 - 컴퓨터구조: 혼자서 공부하는 컴퓨터구조+운영체제 -> 컴퓨터구조 및 설계 번역본<br/>
 - 운영체제: 혼자서 공부하는 컴퓨터구조+운영체제 + 반효경 운영체제 강의 -> 운영체제(공룡책) 번역본<br/>
 - 네트워크: 모두의 네트워크 + 생활코딩(Home Server, DNS)-> 컴퓨터 네트워킹 하향식 접근 번역본<br/>
-- linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
+- Linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
 
 ### 2. 백엔드: 
 ### Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>
