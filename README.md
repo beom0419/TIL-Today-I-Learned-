@@ -401,6 +401,7 @@ CS 6대과목<br/>
 2023-12-30: SSAFY 입과 시험 준비(Java, Python) <br/>
 2023-12-31: SSAFY 입과 시험 준비(Java, Python) <br/>
 2024-01-01: SSAFY 입과 시험 준비(Java, Python) <br/>
+2024-01-13: asdf</br>
 2024-01-02: SSAFY OT, SSAFY 입과 시험 준비(Java, Python) <br/>
 2024-01-03: SSAFY 입과 시험 <br/>
 2024-01-04: SSAFY 수업: 아이디어 톤, 기술면접 학습(운영체제)<br/>
