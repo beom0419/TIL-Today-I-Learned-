@@ -3,10 +3,10 @@
 ---
 
 # 학습 List<br/>
-# SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL+Redis+MongoDB, 운영체제+컴퓨터구조, 네트워크), linux(ubuntu)<br/>
-# 백엔드: Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>
-# 웹+프론트엔드: HTML, CSS, JavaScript, React(+Vue.js), jQuery-ajax<br/>
-# 버전 관리 및 서버 배포: git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>
+### SW기초: 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL+Redis+MongoDB, 운영체제+컴퓨터구조, 네트워크), linux(ubuntu)<br/>
+### 백엔드: Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>
+### 웹+프론트엔드: HTML, CSS, JavaScript, React(+Vue.js), jQuery-ajax<br/>
+### 버전 관리 및 서버 배포: git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>
 
 SW기초<br/>
 정보처리기사: Youtube 정보처리기사 인강<br/>
