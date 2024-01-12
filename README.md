@@ -13,7 +13,7 @@ CS 6대과목<br/>
 - 네트워크: 모두의 네트워크 + 생활코딩(Home Server, DNS)-> 컴퓨터 네트워킹 하향식 접근 번역본<br/>
 - Linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
 
-### 2. 백엔드: 
+### 2. 백엔드
 `Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>`
 
 - Java: 자바의 정석<br/>
