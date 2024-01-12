@@ -1,6 +1,6 @@
 # 웹 백엔드 학습 List<br/>
 ### 1. SW기초
-`### 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스, 운영체제+컴퓨터구조, 네트워크), Linux(ubuntu)<br/>`
+`정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스, 운영체제+컴퓨터구조, 네트워크), Linux(ubuntu)<br/>`
 
 - 정보처리기사: Youtube 정보처리기사 인강<br/>
 CS 6대과목<br/>
@@ -14,20 +14,20 @@ CS 6대과목<br/>
 - Linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
 
 ### 2. 백엔드: 
-### Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>
+`Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>`
 
 - Java: 자바의 정석<br/>
 - Spring Framework ~ QueryDSL: 인프런 김영한 로드맵<br/>
 
 ### 3. 웹+프론트엔드
-### HTML, CSS, JavaScript, React(+Vue.js), jQuery-ajax<br/>
+`HTML, CSS, JavaScript, React(+Vue.js), jQuery-ajax<br/>`
 
 - HTML+CSS+JavaScript+React: 생활코딩<br/>
 - Vue는 추후 학습 예정<br/>
 - jQuery-ajax: 추후 학습 예정<br/>
 
 ### 4. 버전 관리 및 서버 배포
-### git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>
+`git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>`
 
 - git-github: 생활코딩<br/>
 - AWS: 생활코딩<br/>
