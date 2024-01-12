@@ -1,8 +1,4 @@
-# TIL(Today I Learned)
-
----
-
-# 학습 List<br/>
+# 웹 백엔드 학습 List<br/>
 ### 1. SW기초
 ### 정보처리기사, CS 6대과목(자료구조, 알고리즘, 데이터베이스+MySQL+Redis+MongoDB, 운영체제+컴퓨터구조, 네트워크), linux(ubuntu)<br/>
 ### 2. 백엔드: 
