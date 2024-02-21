@@ -453,3 +453,4 @@ CS 6대과목<br/>
 2024-02-19: SSAFY 주간평가 및 실습(알고리즘: 일타싸피), 기술면접 학습(DB), SQLD 학습<br/>
 2024-02-20: SSAFY 수업(Front-End: HTML), 기술면접 학습(DB), SQLD 학습<br/>
 2024-02-21: SSAFY 수업(Front-End: CSS), 기술면접 학습(DB), SQLD 학습<br/>
+2024-02-22: SSAFY 수업(Front-End: JS), 기술면접 학습(DB), SQLD 학습<br/>
