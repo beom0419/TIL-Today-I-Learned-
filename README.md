@@ -455,3 +455,5 @@ CS 6대과목<br/>
 2024-02-21: SSAFY 수업(Front-End: CSS), 기술면접 학습(DB), SQLD 학습<br/>
 2024-02-22: SSAFY 수업(Front-End: JS), 기술면접 학습(DB), SQLD 학습<br/>
 2024-02-23: SSAFY 수업(Front-End: 관통 PJT), 기술면접 학습(DB), SQLD 학습<br/>
+2024-02-24: 기술면접 학습(Front-End, 자료구조), SQLD 학습<br/>
+2024-02-25: 기술면접 학습(Front-End, 자료구조), SQLD 학습<br/>
