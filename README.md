@@ -465,3 +465,4 @@ CS 6대과목<br/>
 2024-03-03: SSAFY SW 역량테스트 A형 대비, SQLD 학습<br/>
 2024-03-04: SQLD 학습<br/>
 2024-03-05: SSAFY 수업(Back-End: Servlet), SQLD 학습<br/>
+2024-03-06: SSAFY 수업(Back-End: JSP), SQLD 학습<br/>
