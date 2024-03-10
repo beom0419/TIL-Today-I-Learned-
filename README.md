@@ -469,3 +469,4 @@ CS 6대과목<br/>
 2024-03-07: SSAFY 수업(Back-End: Cookie&Session), SQLD 학습<br/>
 2024-03-08: SSAFY 수업(Back-End: EL&JSTL), SQLD 학습<br/>
 2024-03-09: SQLD 응시<br/>
+2024-03-10: SSAFY 수업 복습, 기술면접 학습(DB)<br/>
