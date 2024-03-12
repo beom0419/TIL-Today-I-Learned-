@@ -470,3 +470,5 @@ CS 6대과목<br/>
 2024-03-08: SSAFY 수업(Back-End: EL&JSTL), SQLD 학습<br/>
 2024-03-09: SQLD 응시<br/>
 2024-03-10: SSAFY 수업 복습, 기술면접 학습(DB)<br/>
+2024-03-11: SSAFY 수업(Back-End: DI), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
+2024-03-12: SSAFY 수업(Back-End: AOP), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
