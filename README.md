@@ -474,3 +474,4 @@ CS 6대과목<br/>
 2024-03-12: SSAFY 수업(Back-End: AOP), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
 2024-03-13: SSAFY 수업(Back-End: MVC), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
 2024-03-14: SSAFY 수업(Back-End: Interceptor), 정보처리기사 실기 학습, 자기소개서 작성<br/>
+2024-03-15: SSAFY 수업(Back-End: 관통 PJT), 정보처리기사 실기 학습, 자기소개서 작성<br/>
