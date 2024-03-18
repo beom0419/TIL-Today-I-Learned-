@@ -22,7 +22,8 @@ CS 6대과목<br/>
 ### 3. 웹+프론트엔드
 `HTML, CSS, JavaScript, Vue.js, React.js, jQuery-ajax<br/>`
 
-- HTML, CSS, JavaScript, Vue.js: SSAFY 정규 과정<br/>
+- HTML, CSS, Vue.js: SSAFY 정규 과정<br/>
+- JavaScript: 모던 자바스크립트 Deep Dive
 - React.js: 추후 학습 예정<br/>
 - jQuery-ajax: 추후 학습 예정<br/>
 
