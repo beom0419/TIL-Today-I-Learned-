@@ -4,8 +4,7 @@
 
 - 정보처리기사: Youtube 정보처리기사 인강<br/>
 CS 6대과목<br/>
-- 자료구조: 누구나 자료구조와 알고리즘<br/>
-- 알고리즘+PS: 이것이 코딩테스트다 <br/>
+- 자료구조+알고리즘+PS: 누구나 자료구조와 알고리즘 -> CLRS -> 이것이 코딩테스트다 <br/>
 - 데이터베이스(MySQL): 이것이 MySQL이다 강의 + 생활코딩 RDBMS+MySQL -> 데이터베이스 번역본(돛단배) + Real MySQL N회독<br/>
   * (Redis(캐싱용 in-memory DB), MongoDB(NoSQL)는 추후 학습 예정)<br/>
 - 컴퓨터구조: 혼자서 공부하는 컴퓨터구조+운영체제 -> 컴퓨터구조 및 설계 번역본<br/>
@@ -24,7 +23,7 @@ CS 6대과목<br/>
 
 - HTML, CSS, Vue.js: SSAFY 정규 과정<br/>
 - JavaScript: 모던 자바스크립트 Deep Dive
-- React.js: 추후 학습 예정<br/>
+- React.js: 리액트를 다루는 기술<br/>
 - jQuery-ajax: 추후 학습 예정<br/>
 
 ### 4. 버전 관리 및 서버 배포
