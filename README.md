@@ -30,8 +30,8 @@ CS 6대과목<br/>
 `git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>`
 
 - git: 생활코딩 -> git 공식 문서(https://git-scm.com/book/ko/v2) <br/>
-- github: 생활코딩 <br/>
-- AWS: 생활코딩<br/>
+- github: 생활코딩 -> github 공식 문서(https://docs.github.com/ko) <br/>
+- AWS: 생활코딩 -> 교재<br/>
 - Docker, Kubernetes: 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 or 유튜브 따배도-따배쿠<br/>
 - Jenkins, Grafana, Prometheus: 인프런 김영한 강의
 - Nginx: 생활코딩<br/>
