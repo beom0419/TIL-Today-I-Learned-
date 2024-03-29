@@ -10,7 +10,6 @@ CS 6대과목<br/>
 - 컴퓨터구조: 혼자서 공부하는 컴퓨터구조+운영체제 -> 컴퓨터구조 및 설계 번역본<br/>
 - 운영체제: 혼자서 공부하는 컴퓨터구조+운영체제 + 반효경 운영체제 강의 -> 운영체제(공룡책) 번역본<br/>
 - 네트워크: 모두의 네트워크 + 생활코딩(Home Server, DNS)-> 컴퓨터 네트워킹 하향식 접근 번역본<br/>
-- Linux(ubuntu): 이것이 우분투 리눅스다 강의<br/>
 
 ### 2. 백엔드
 `Java + Spring Framework + SpringBoot + JPA + Spring Data JPA + QueryDSL<br/>`
@@ -27,14 +26,19 @@ CS 6대과목<br/>
 - jQuery-ajax: 추후 학습 예정<br/>
 
 ### 4. 버전 관리 및 서버 배포
-`git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>`
+`Linux, git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>`
 
+- Linux(ubuntu): 이것이 우분투 리눅스다<br/>
 - git: 생활코딩 -> git 공식 문서(https://git-scm.com/book/ko/v2) <br/>
 - github: 생활코딩 -> github 공식 문서(https://docs.github.com/ko) <br/>
 - AWS: 생활코딩 -> 교재<br/>
-- Docker, Kubernetes: 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 or 유튜브 따배도-따배쿠<br/>
+- Docker-Kubernetes: 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 or 유튜브 따배도-따배쿠<br/>
 - Jenkins, Grafana, Prometheus: 인프런 김영한 강의
 - Nginx: 생활코딩<br/>
+- 메시지 브로커(kafka)
+
+- ![Uploading image.png…]()
+
 
 # TIL 
 
@@ -488,3 +492,4 @@ CS 6대과목<br/>
 2024-03-26: SSAFY 수업(알고리즘: 그래프탐색), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
 2024-03-27: SSAFY 수업(알고리즘: 그래프최소비용1), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
 2024-03-28: SSAFY 수업(알고리즘: 그래프최소비용2), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
+2024-03-29: SSAFY 수업(관통프로젝트: DB), 정보처리기사 실기 학습, 기술면접 학습(DB)<br/>
