@@ -37,7 +37,7 @@ CS 6대과목<br/>
 - Nginx: 생활코딩<br/>
 - 메시지 브로커(kafka)
 
-- ![Uploading image.png…]()
+- 
 
 
 # TIL 
