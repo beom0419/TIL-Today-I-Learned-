@@ -514,3 +514,4 @@ CS 6대과목<br/>
 2024-04-17: SSAFY 수업(Spring Boot), 정보처리기사 실기 학습<br/>
 2024-04-18: SSAFY 수업(SpringBoot REST API), 정보처리기사 실기 학습<br/>
 2024-04-19: SSAFY 수업(JSON, DOM, Event), 정보처리기사 실기 학습<br/>
+2024-04-20: 정보처리기사 실기 학습<br/>
