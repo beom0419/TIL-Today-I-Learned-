@@ -525,3 +525,4 @@ CS 6대과목<br/>
 2024-04-28: WEB 공부 <br/>
 2024-04-29: SSAFY 수업(vue.js), WEB 공부 <br/>
 2024-04-30: SSAFY 수업(vue.js), WEB 공부 <br/>
+2024-05-01: WEB 공부 <br/>
