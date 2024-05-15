@@ -539,3 +539,4 @@ CS 6대과목<br/>
 2024-05-12: vue.js 학습 <br/>
 2024-05-13: SSAFY 수업(vue.js) <br/>
 2024-05-14: SSAFY 수업(vue.js) <br/>
+2024-05-15: SSAFY 수업(vue.js) <br/>
