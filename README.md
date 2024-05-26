@@ -551,3 +551,4 @@ CS 6대과목<br/>
 2024-05-24: SSAFY 관통PJT <br/>
 2024-05-25: CS학습(DB), Web 학습(MyBatis) <br/>
 2024-05-26: CS학습(DB), Web 학습(MyBatis) <br/>
+2024-05-27: CS학습(DB), Web 학습(MyBatis), 계절학기 <br/>
