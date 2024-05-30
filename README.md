@@ -555,3 +555,4 @@ CS 6대과목<br/>
 2024-05-28: CS학습(DB), Web 학습(MyBatis), 계절학기 <br/>
 2024-05-29: CS학습(DB), Web 학습(MyBatis), 계절학기 <br/>
 2024-05-30: CS학습(DB), Web 학습(MyBatis), 계절학기 <br/>
+2024-05-31: CS학습(DB), Web 학습(MyBatis), 밋업 <br/>
