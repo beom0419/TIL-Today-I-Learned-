@@ -561,3 +561,5 @@ CS 6대과목<br/>
 2024-06-03: CS학습(DB), Web 학습(MyBatis)<br/>
 2024-06-04: CS학습(자료구조, 알고리즘), Web 학습(MyBatis)<br/>
 2024-06-05: CS학습(자료구조, 알고리즘), Web 학습(MyBatis)<br/>
+2024-06-06: Web 학습(Spring 기초)<br/>
+2024-06-07: Web 학습(HTTP)<br/>
