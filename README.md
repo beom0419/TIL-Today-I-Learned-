@@ -565,3 +565,6 @@ CS 6대과목<br/>
 2024-06-07: Web 학습(HTTP, Spring 기본)<br/>
 2024-06-08: Web 학습(Spring 기본)<br/>
 2024-06-09: Web 학습(Spring 기본)<br/>
+2024-06-10: Web 학습(Spring 기본)<br/>
+2024-06-11: Web 학습(JPA)<br/>
+2024-06-12: Web 학습(JPA)<br/>
