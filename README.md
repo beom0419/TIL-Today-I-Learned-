@@ -23,7 +23,6 @@ CS 6대과목<br/>
 - HTML, CSS, Vue.js: SSAFY 정규 과정<br/>
 - JavaScript: 모던 자바스크립트 Deep Dive
 - React.js: 리액트를 다루는 기술<br/>
-- jQuery-ajax: 추후 학습 예정<br/>
 
 ### 4. 버전 관리 및 서버 배포
 `Linux, git-github, AWS, Docker-Kubernetes-Jenkins-Grafana-Prometheus, Nginx, Tomcat<br/>`
