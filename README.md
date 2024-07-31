@@ -610,4 +610,6 @@ CS 6대과목<br/>
 2024-07-26: SSFAY: 마이페이지 개발<br/>
 2024-07-27: Web 복습: HTML-CSS-JS<br/>
 2024-07-28: Web 복습: xhr, web storage, axios<br/>
-2024-07-29: SSFAY: Web 복습: xhr, web storage, axios<br/>
+2024-07-29: SSFAY: Web 복습(xhr, web storage, axios)<br/>
+2024-07-30: SSFAY: 시공자 관리, 포트폴리오 화면 UI<br/>
+2024-07-31: SSFAY: 시공자 관리, 포트폴리오 화면 API 연동<br/>
