@@ -613,3 +613,4 @@ CS 6대과목<br/>
 2024-07-29: SSFAY: Web 복습(xhr, web storage, axios)<br/>
 2024-07-30: SSFAY: 시공자 관리, 포트폴리오 화면 UI<br/>
 2024-07-31: SSFAY: 시공자 관리, 포트폴리오 화면 API 연동<br/>
+2024-08-02: SSFAY: 시공자 관리, 포트폴리오 화면 API 연동<br/>
